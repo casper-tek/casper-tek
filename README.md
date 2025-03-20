@@ -12,7 +12,7 @@ I'm `TRABY` (CASPER TECH), a developer passionate about AI, chatbots and coding.
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Casper-tek&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 ### GITHUB TROPHIES
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Traby-qriz)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=casper-tek)
 
 
 
